@@ -1,0 +1,1 @@
+export const BASE_URL ="http://15.206.88.76/will_backend/public/api/";
